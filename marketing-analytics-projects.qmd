@@ -1,0 +1,86 @@
+---
+title: ""
+---
+
+# Marketing Analytics Projects
+
+This page showcases my work in data-driven marketing, including statistical analysis, data visualization, and business insights.
+
+---
+
+## Fast-Food Mobile App Satisfaction Study
+
+This project analyzed whether customer satisfaction with fast-food mobile apps influences purchase behavior. Data was collected through Qualtrics and analyzed using SPSS.
+
+**Objective**
+- Determine if higher app satisfaction leads to increased purchase frequency  
+
+**Methods Used**
+- Logistic regression analysis  
+- Descriptive statistics  
+- Survey data analysis  
+
+**Key Insights**
+- App usability and convenience strongly influence purchase decisions  
+- Customer satisfaction is positively associated with repeat purchases  
+
+> *(Visual placeholder: Add SPSS output, charts, or regression table here)*
+
+---
+
+## Tableau Dashboard — Electric Vehicle Data
+
+In this project, I created an interactive Tableau dashboard to explore trends in electric vehicle adoption.
+
+**What I Did**
+- Built visualizations to analyze adoption trends over time  
+- Compared regions and usage patterns  
+- Highlighted key insights for decision-making  
+
+**Skills Demonstrated**
+- Data visualization  
+- Dashboard design  
+- Insight communication  
+
+> *(Visual placeholder: Add Tableau dashboard screenshot here)*
+
+---
+
+## Website Traffic Analysis — Google Analytics (GA4)
+
+This project focuses on analyzing website traffic data using Google Analytics 4 to understand user behavior and engagement.
+
+**Key Focus Areas**
+- Traffic sources (organic, direct, referral)  
+- User engagement metrics (sessions, bounce rate)  
+- Conversion-related behavior  
+
+**Tools Used**
+- Google Analytics 4  
+- Data interpretation and reporting  
+
+> *(Visual placeholder: Add GA4 dashboard or charts here)*
+
+---
+
+## CEP Project — Rising Stars Muay Thai (Analytics Component)
+
+As part of my Culminating Experience Project (CEP), I worked on analyzing performance and engagement for Rising Stars Muay Thai.
+
+**What I Did**
+- Evaluated user engagement and traffic patterns  
+- Connected marketing efforts to performance outcomes  
+- Interpreted data to support strategic decisions  
+
+**What This Shows**
+- Ability to apply analytics in a real-world project  
+- Understanding of marketing performance metrics  
+- Data-driven decision-making  
+
+> *(Visual placeholder: Add project visuals, charts, or insights here)*
+
+---
+
+## Why These Projects Matter
+
+These projects demonstrate my ability to use data to support marketing decisions. I developed skills in statistical analysis, visualization, and interpreting data to generate meaningful business insights.

@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Christian Gutierrez-Garcia"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: digital-marketing-projects.qmd
+        text: Digital Marketing Projects
+      - href: marketing-analytics-projects.qmd
+        text: Marketing Analytics Projects
+      - href: resume.qmd
+        text: Resume
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    page-layout: full
+    css: styles.css
+
