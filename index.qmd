@@ -3,7 +3,14 @@ title: ""
 ---
 
 ::: {.hero}
+
 # Christian Gutierrez-Garcia
+
+<center>
+
+![](christian-headshot.jpeg){width=220px .rounded-circle}
+
+</center>
 
 ## Digital Marketing Student
 
@@ -12,15 +19,6 @@ Master’s student in Digital Marketing at Cal Poly Pomona with a strong interes
 My background combines creative thinking with data-driven decision making. Through academic projects and professional experience, I have worked on content strategy, SEO, analytics reporting, and digital campaign ideas that connect business goals with audience needs.
 
 I enjoy work that sits at the intersection of creativity and performance. Whether I am developing content ideas, analyzing user behavior, or presenting insights, I aim to create work that is both visually compelling and strategically impactful.
-:::
-
----
-
-::: {.contact-box}
-### Contact
-
-📧 Email: [gutichris13@gmail.com](mailto:gutichris13@gmail.com)  
-📍 Location: Pomona, CA 91768
 :::
 
 ---
@@ -43,7 +41,6 @@ I am currently pursuing a Master of Science in Digital Marketing at California S
 My professional experience includes working at Best Buy and completing a digital marketing micro-internship with the Trauma Resource Institute. Through these experiences, I developed skills in content planning, project coordination, analytics reporting, and digital strategy execution.
 
 
-
 ## Career Goals
 
 My goal is to work in digital marketing within the film or sports industry, where I can combine storytelling, audience engagement, and data-driven strategy to create impactful campaigns.
@@ -59,12 +56,10 @@ My goal is to work in digital marketing within the film or sports industry, wher
 - Project Coordination & Workflow Support  
 - Bilingual Communication (English & Spanish)
 
+::: {.contact-box}
+### Let's Connect
 
+- [GitHub](https://github.com/gutichris18)
+- Email: gutichris13@gmail.com
+:::
 
-## Certifications
-
-- Email Marketing – HubSpot Academy  
-- Google Analytics (GA4) Certifications  
-- DWV in R Boot Camp  
-- Online Marketing Foundations  
-- Excel Advanced Formulas and Functions

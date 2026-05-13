@@ -13,6 +13,10 @@ website:
         text: Marketing Analytics Projects
       - href: resume.qmd
         text: Resume
+      - href: website-analytics.qmd
+        text: GA4
+      - href: Presentation.qmd
+        text: Presentation
 
 format:
   html:

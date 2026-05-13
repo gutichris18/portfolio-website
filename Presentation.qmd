@@ -1,0 +1,97 @@
+---
+title: "Digital Marketing Portfolio Presentation"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    center: true
+    chalkboard: false
+---
+
+# Christian Gutierrez-Garcia
+
+Digital Marketing Portfolio Presentation
+
+MS Digital Marketing — Cal Poly Pomona
+
+
+# About Me
+
+- Master's student in Digital Marketing
+- Interested in analytics, strategy, and storytelling
+- Passionate about sports and entertainment marketing
+- Experience with SEO, analytics, and campaign strategy
+
+
+
+# Website Overview
+
+- Created a professional portfolio website using Quarto
+- Organized projects into digital marketing and analytics sections
+- Used a dark theme to create a modern and clean design
+- Built the site to showcase both creative and technical skills
+
+
+
+# TRI YouTube Strategy
+
+- Developed educational content strategy
+- Focused on SEO and audience targeting
+- Analyzed competing channels
+- Created structured content planning ideas
+
+
+
+# Off-Page SEO & Social Media
+
+- Optimized content using keyword strategies
+- Focused on engagement and discoverability
+- Evaluated social media positioning
+- Connected SEO strategy with audience behavior
+
+
+# SPSS Analytics Project
+
+- Conducted survey analysis using SPSS
+- Used descriptive statistics and logistic regression
+- Studied customer satisfaction and purchase behavior
+- Interpreted data to generate business insights
+
+
+
+# Tableau Dashboard Project
+
+- Built an interactive Tableau dashboard
+- Visualized electric vehicle adoption trends
+- Compared regional and market patterns
+- Focused on dashboard design and insight communication
+
+
+# GA4 Analytics Project
+
+- Implemented Google Analytics 4 tracking
+- Analyzed website traffic and engagement
+- Evaluated traffic acquisition channels
+- Used analytics to support marketing decisions
+
+
+
+# Skills & Tools Learned
+
+- Google Analytics 4
+- Tableau
+- SPSS
+- SEO & Content Strategy
+- Quarto & GitHub Pages
+- Google Tag Manager
+
+
+
+# Final Reflection
+
+- Strengthened both creative and analytical skills
+- Applied classroom concepts to real projects
+- Learned how data supports marketing strategy
+- Developed a stronger understanding of digital marketing workflows
+
+Thank You

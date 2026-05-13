@@ -24,7 +24,10 @@ This project analyzed whether customer satisfaction with fast-food mobile apps i
 - App usability and convenience strongly influence purchase decisions  
 - Customer satisfaction is positively associated with repeat purchases  
 
-> *(Visual placeholder: Add SPSS output, charts, or regression table here)*
+![Fast Food Mobile App Satisfaction Study Presentation Slide]
+![](fastfood-descriptive-statistics.png){width=65%}
+
+*Project presentation slide summarizing descriptive statistics and customer satisfaction findings from survey data analysis conducted in SPSS.*
 
 ---
 
@@ -42,44 +45,44 @@ In this project, I created an interactive Tableau dashboard to explore trends in
 - Dashboard design  
 - Insight communication  
 
-> *(Visual placeholder: Add Tableau dashboard screenshot here)*
+![](ev-tableau-dashboard.png){width=65%}
+
+*Interactive Tableau dashboard analyzing electric vehicle adoption trends, Tesla sales distribution, and regional market patterns.*
 
 ---
 
-## Website Traffic Analysis — Google Analytics (GA4)
+## CEP Project — Rising Stars Muay Thai — Website Traffic Analysis (GA4)
 
-This project focuses on analyzing website traffic data using Google Analytics 4 to understand user behavior and engagement.
+As part of our culminating project, I implemented and analyzed Google Analytics 4 (GA4) tracking to better understand audience behavior, traffic acquisition, and engagement across the organization’s website and promotional campaign pages.
 
-**Key Focus Areas**
-- Traffic sources (organic, direct, referral)  
-- User engagement metrics (sessions, bounce rate)  
-- Conversion-related behavior  
+### Key Contributions
 
-**Tools Used**
-- Google Analytics 4  
-- Data interpretation and reporting  
+- Implemented GA4 tracking across the Rising Stars Muay Thai website using Google Analytics and Google Tag Manager
+- Monitored acquisition channels including organic search, direct traffic, referral traffic, and social media traffic
+- Analyzed engagement metrics such as sessions, engaged sessions, page views, and average engagement time
+- Evaluated visitor interaction with event-related pages, ticket interest, and promotional content
+- Used behavioral insights to improve website structure, navigation flow, and campaign visibility
 
-> *(Visual placeholder: Add GA4 dashboard or charts here)*
+### Analytics Focus Areas
 
----
+- Traffic acquisition and channel performance
+- User engagement and session behavior
+- Event promotion performance and visitor interaction
+- Organic discovery and search visibility
+- Early-stage campaign optimization using analytics insights
 
-## CEP Project — Rising Stars Muay Thai (Analytics Component)
+### Tools & Platforms
 
-As part of my Culminating Experience Project (CEP), I worked on analyzing performance and engagement for Rising Stars Muay Thai.
+- Google Analytics 4 (GA4)
+- Google Tag Manager
+- Google Search Console
+- Quarto
+- GitHub Pages
 
-**What I Did**
-- Evaluated user engagement and traffic patterns  
-- Connected marketing efforts to performance outcomes  
-- Interpreted data to support strategic decisions  
-
-**What This Shows**
-- Ability to apply analytics in a real-world project  
-- Understanding of marketing performance metrics  
-- Data-driven decision-making  
-
-> *(Visual placeholder: Add project visuals, charts, or insights here)*
+![](rsmt-ga4-dashboard.png){width=65%}
 
 ---
+
 
 ## Why These Projects Matter
 

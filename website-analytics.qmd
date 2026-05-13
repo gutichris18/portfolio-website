@@ -1,0 +1,49 @@
+---
+title: ""
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    page-layout: full
+---
+
+# Portfolio Website Analytics
+
+This page summarizes traffic and engagement data collected from my portfolio website using Google Analytics 4 (GA4) and Google Search Console.
+
+---
+
+# Tools Used
+
+- Google Analytics 4 (GA4)
+- Google Search Console
+- Google Tag Manager
+- Quarto
+- GitHub Pages
+
+---
+
+# Traffic Insights
+
+The website analytics helped track:
+
+- Total users and sessions
+- Traffic acquisition channels
+- User engagement behavior
+- Website performance trends
+- Search visibility and discoverability
+
+---
+
+# Key Takeaways
+
+- Most traffic came from direct and organic sources
+- User engagement increased after improving page structure
+- Analytics provided insight into how visitors interacted with project pages
+- GA4 helped evaluate overall website visibility and performance
+
+---
+
+# Reflection
+
+This experience helped strengthen my understanding of real-world analytics implementation, website tracking, and performance reporting using GA4 and related marketing analytics tools.
