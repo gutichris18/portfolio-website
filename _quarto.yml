@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Christian Gutierrez-Garcia"
+  site-url: https://gutichris18.github.io/portfolio-website/
+  
   navbar:
     left:
       - href: index.qmd
